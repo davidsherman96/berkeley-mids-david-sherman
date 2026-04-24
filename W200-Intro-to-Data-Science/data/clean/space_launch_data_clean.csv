@@ -1,0 +1,412 @@
+,Date,New Date,Payload,Vehicle,Company,State
+0,09/08/98,1998-09-08,IRIDIUM 10,Delta II,McDonnell Douglas Corporation,CA
+1,09/08/96,1996-09-08,GE-1 ,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+2,09/07/14,2014-09-07,AsiaSat-6,Falcon 9,Space Exploration Technologies Corporation,FL
+3,09/06/08,2008-09-06,GeoEye 1,Delta II,Boeing Launch Services,CA
+4,09/04/22,04-Sep-22,Starlink Group 4-20 ,Falcon 9,Space Exploration Technologies Corporation,FL
+5,09/04/97,"Sep 4, 1997 ",GE-3 ,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+6,09/03/20,,150m Hop ,Starship Hopper,Space Exploration Technologies Corporation,TX
+8,09/03/93,,UHF-2 ,Atlas I,General Dynamics,FL
+9,09/29/13,,Cassiope ,Falcon 9,Space Exploration Technologies Corporation,CA
+10,09/29/04,,(Flight 16P),SpaceShipOne,Scaled Composites,CA
+12,09/27/97,,IRIDIUM 4 ,Delta II,McDonnell Douglas Corporation,CA
+13,09/24/22,,Starlink Group 4-35 ,Falcon 9,Space Exploration Technologies Corporation,FL
+16,09/24/99,,IKONOS 2,Athena-2,Lockheed Martin Commercial Launch Services,CA
+17,09/23/99,,ECHOSTAR V,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+18,09/23/98,,ORBCOMM III,Pegasus XL,Orbital ATK,VA
+19,09/21/14,,CRS-4 Dragon 6 Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+20,09/21/01,,ORBVIEW 4,Taurus,Orbital ATK,CA
+21,09/02/21,,FLTA001-DREAM ,Alpha,Firefly Aerospace,CA
+22,09/02/91,,ZEST-1 ,TalosCastor 1,Orbital ATK,HI
+23,09/18/22,,Starlink Group 4-34 ,Falcon 9,Space Exploration Technologies Corporation,FL
+24,09/18/13,,Orb-D1 Cygnus ,Antares,Orbital ATK,VA
+25,09/18/07,,WorldView 1,Delta II,Boeing Launch Services,CA
+26,09/18/02,,HISPASAT-1D,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+27,09/16/21,,Inspiration4,Falcon 9,Space Exploration Technologies Corporation,FL
+29,09/13/21,,Starlink v1.5 Group 2-1 ,Falcon 9,Space Exploration Technologies Corporation,CA
+30,09/12/22,,NS-23 / P12 ,New Shepard System,Blue Origin,TX
+31,09/12/91,,ZEST-2 ,TalosCastor 1,Orbital ATK,HI
+32,09/11/20,,Test Launch 3.1 ,Astra Rocket 3,Astra,AK
+33,09/10/22,,Starlink Group 4-2 ,Falcon 9,Space Exploration Technologies Corporation,FL
+34,09/10/18,,Telstar 18V ,Falcon 9,Space Exploration Technologies Corporation,FL
+35,09/10/92,,CONSORT-5 ,Starfire 1,EER Systems Corporation,NM
+36,10/09/17,,Iridium-3,Falcon 9,Space Exploration Technologies Corporation,CA
+39,10/09/98,,HOTBIRD 5,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+40,10/08/22,,Intelsat G-33/G-34 ,Falcon 9,Space Exploration Technologies Corporation,FL
+41,10/08/09,,WorldView-2,Delta II,Boeing Launch Services,CA
+43,10/07/18,,SAOCOM-1A ,Falcon 9,Space Exploration Technologies Corporation,CA
+44,10/07/12,,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+45,10/06/20,,Starlink v1.0-12 ,Falcon 9,Space Exploration Technologies Corporation,FL
+46,10/06/12,,Scientific ,STIG-B,Armadillo Aerospace,NM
+47,10/06/94,,INTELSAT-VII-703 ,Atlas IIAS,Martin Marrietta,FL
+48,10/05/22,,Starlink Group 4-29 ,Falcon 9,Space Exploration Technologies Corporation,CA
+50,10/05/97,,ECHOSTAR III ,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+51,10/05/89,,SET-1 ,SMLV,American Rocket,CA
+52,10/04/22,,SES 20-21 ,Atlas V,United Launch Alliance,FL
+53,10/04/04,,(Flight 17P),SpaceShipOne,Scaled Composites,CA
+54,10/31/17,,Skybox,Minotaur-C,Orbital Sciences Corp.,CA
+55,10/30/17,,KoreaSat-5A,Falcon 9,Space Exploration Technologies Corporation,FL
+57,10/30/90,,INMARSAT 2 FLT 1 ,Delta II,McDonnell Douglas Corporation,FL
+60,10/28/14,,Orb-3 Cygnus ,Antares,Orbital ATK,VA
+61,10/27/22,,Starlink Group 4-31 ,Falcon 9,Space Exploration Technologies Corporation,CA
+62,10/26/19,,M4 ,SARGE,Exos Aerospace,NM
+63,10/25/08,,COSMO SkyMed 3,Delta II,The Boeing Company,CA
+64,10/24/20,,Starlink v1.0-14 ,Falcon 9,Space Exploration Technologies Corporation,FL
+65,10/23/98,,SCD-2,Pegasus XL,Orbital ATK,FL
+66,10/23/95,,METEOR ,Conestoga,EER Systems Corporation,VA
+67,10/22/95,,EHF-F6 ,Atlas II,Lockheed Martin Commercial Launch Services,FL
+69,10/20/22,,Starlink Group 4-36 ,Falcon 9,Space Exploration Technologies Corporation,FL
+70,10/20/98,,GBS F9,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+71,10/02/20,,NG-14 ,Antares,Northrop Grumman,VA
+72,10/02/15,,Morelos-3 Communications Satellite ,Atlas V,United Launch Alliance,FL
+73,10/18/20,,Starlink v1.0-13 ,Falcon 9,Space Exploration Technologies Corporation,FL
+74,10/18/01,,QUICKBIRD 2,Delta II,McDonnell Douglas Corporation,CA
+75,10/17/16,,OA-5 Cygnus,Antares,Orbital Sciences Corp.,VA
+77,10/15/22,,Eutelsat HOTBIRD-F1 ,Falcon 9,Space Exploration Technologies Corporation,FL
+78,10/13/21,,NS-18/M16,New Shepard System,Blue Origin,TX
+79,10/13/20,,NS13 P10 ,New Shepard System,Blue Origin,TX
+80,10/12/92,,KOPERNIKUS ,Delta II,McDonnell Douglas Corporation,FL
+81,10/11/17,,SES-11,Falcon 9,Space Exploration Technologies Corporation,FL
+82,10/01/22,,FLTA002 ,Alpha,Firefly Aerospace,CA
+84,11/09/97,,IRIDIUM 5 ,Delta II,McDonnell Douglas Corporation,CA
+86,11/06/10,,COSMO-Skymed 4,Delta II,Boeing Launch Services,CA
+87,11/06/98,,IRIDIUM 11,Delta II,McDonnell Douglas Corporation,CA
+88,11/04/12,,Scientific ,STIG-B,Armadillo Aerospace,NM
+89,11/29/18,,N/A ,Astra Rocket 2,Astra,AK
+90,11/29/94,,ORION ,Atlas IIA,Martin Marrietta,FL
+91,11/24/20,,Starlink v1.0-15 ,Falcon 9,Space Exploration Technologies Corporation,FL
+92,11/23/09,,Intelsat 14,Atlas V,Lockheed Martin Commercial Launch Services,FL
+93,11/23/99,,GBS F10,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+94,11/22/98,,BONUM-1,Delta II,McDonnell Douglas Corporation,FL
+95,11/21/96,,HOT BIRD 2 ,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+96,11/20/21,,LV0007 (mass simulator) ,Rocket 3.3,Astra,AK
+97,11/20/02,,EUTELSAT W5,Delta IV,Boeing Launch Services,FL
+98,11/02/19,,NG-12 Cygnus ,Antares,Northrop Grumman,VA
+100,11/19/13,,ORS-3 ,Minotaur,Orbital ATK,VA
+102,11/17/18,,NG-10 Cygnus ,Antares,Orbital Sciences Corp.,VA
+103,11/16/91,,CONSORT-4 ,Starfire 1,EER Systems Corporation,NM
+104,11/15/20,,Crew-1,Falcon 9,Space Exploration Technologies Corporation,FL
+105,11/15/18,,Es'Hail-2 ,Falcon 9,Space Exploration Technologies Corporation,FL
+106,11/15/89,,CONSORT-2 ,Starfire 1,Space Services,NM
+107,11/13/21,,Starlink Group 4-1 ,Falcon 9,Space Exploration Technologies Corporation,FL
+108,11/13/17,,OA-8 Cygnus ,Antares,Orbital Sciences Corp.,VA
+109,11/11/19,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+110,11/11/16,,Worldview 4,Atlas V,Lockheed Martin Commercial Launch Services,CA
+111,11/10/21,,Crew-3,Falcon 9,Space Exploration Technologies Corporation,FL
+113,05/09/21,,Starlink v1.0-27 ,Falcon 9,Space Exploration Technologies Corporation,FL
+115,05/06/22,,Starlink Group 4-17 ,Falcon 9,Space Exploration Technologies Corporation,FL
+116,05/06/16,,JCSat-14,Falcon 9,Space Exploration Technologies Corporation,FL
+117,05/06/15,,No payload; Pad Abort Test,Dragon crew,Space Exploration Technologies Corporation,FL
+118,05/05/21,,Suborbital Flight 5 (SN15) ,Starship Prototype,Space Exploration Technologies Corporation,TX
+120,05/05/99,,ORION 3,Delta III,McDonnell Douglas Corporation,FL
+121,05/05/97,,IRIDIUM 1 ,Delta II,McDonnell Douglas Corporation,CA
+122,05/04/21,,Starlink v1.0-25 ,Falcon 9,Space Exploration Technologies Corporation,FL
+123,05/04/19,,Dragon capsule ,Falcon 9,Space Exploration Technologies Corporation,FL
+125,05/31/95,,EHF-F5 ,Atlas II,Martin Marrietta,FL
+126,05/29/18,,VP01-2,SpaceShipTwo,Virgin Galactic,CA
+127,05/29/91,,AURORA II ,Delta II,McDonnell Douglas Corporation,FL
+128,05/27/16,,Thaicom 8,Falcon 9,Space Exploration Technologies Corporation,FL
+129,05/26/21,,Starlink v1.0-28 ,Falcon 9,Space Exploration Technologies Corporation,FL
+131,05/25/22,,Transporter-5 ,Falcon 9,Space Exploration Technologies Corporation,FL
+132,05/25/20,,Flight 1 ,LauncherOne (L1),"Virgin Orbit, LLC",CA
+134,05/24/06,,GOES N,Delta IV,McDonnell Douglas Corporation,FL
+135,05/24/00,,EUTELSAT W4,Atlas IIIA,Lockheed Martin Commercial Launch Services,FL
+136,05/24/96,,GALAXY IX ,Delta II,McDonnell Douglas Corporation,FL
+137,05/23/19,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+138,05/22/21,,VF02-02,SpaceShipTwo,Virgin Galactic,NM
+139,05/22/18,,Iridium GRACE FO ,Falcon 9,Space Exploration Technologies Corporation,CA
+140,05/22/12,,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+141,05/21/18,,OA-9 Cygnus ,Antares,Orbital ATK,VA
+143,05/20/04,,AMC-11,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+144,05/20/97,,THOR 2A ,Delta II,McDonnell Douglas Corporation,FL
+146,05/02/19,,NS4 P8 ,New Shepard System,Blue Origin,TX
+147,05/18/22,,Starlink Group 4-18 ,Falcon 9,Space Exploration Technologies Corporation,FL
+148,05/18/99,,TERRIERS,Pegasus XL,Orbital ATK,CA
+149,05/17/04,,Rocsat-2,Taurus,Orbital ATK,CA
+150,05/17/98,,IRIDIUM 9,Delta II,McDonnell Douglas Corporation,CA
+151,05/17/96,,MSTI III ,Std Pegasus,Orbital ATK,CA
+152,05/17/90,,CONSORT-3 ,Starfire 1,Space Services,NM
+153,05/15/21,,Starlink v1.0-26 ,Falcon 9,Space Exploration Technologies Corporation,FL
+155,05/15/17,,Inmarsat-5 F-4,Falcon 9,Space Exploration Technologies Corporation,FL
+156,05/14/22,,Starlink Group 4-15 ,Falcon 9,Space Exploration Technologies Corporation,FL
+157,05/14/92,,PALAPA B-4 ,Delta II,McDonnell Douglas Corporation,FL
+158,05/13/22,,Starlink Group 4-13 ,Falcon 9,Space Exploration Technologies Corporation,CA
+159,05/13/04,,(Flight 14P),SpaceShipOne,Scaled Composites,CA
+160,05/13/03,,Hellas Sat 2,Atlas V,Lockheed Martin Commercial Launch Services,FL
+161,05/11/18,,BangabandhuSat-1 ,Falcon 9,Space Exploration Technologies Corporation,FL
+162,05/01/17,,NROL-76,Falcon 9,Space Exploration Technologies Corporation,FL
+163,03/09/22,,Starlink Group 4-10 ,Falcon 9,Space Exploration Technologies Corporation,FL
+164,03/08/97,,TEMPO DBS ,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+165,03/08/91,,INMARSAT 2 FLT 2 ,Delta II,McDonnell Douglas Corporation,FL
+166,03/06/20,,CRS-20 ,Falcon 9,Space Exploration Technologies Corporation,FL
+167,03/06/18,,HispaSat 30W-6,Falcon 9,Space Exploration Technologies Corporation,FL
+168,03/04/21,,Starlink v1.0-17 ,Falcon 9,Space Exploration Technologies Corporation,FL
+169,03/04/16,,SES-9,Falcon 9,Space Exploration Technologies Corporation,FL
+170,03/04/10,,GOES-P,Delta IV,Boeing Launch Services,FL
+171,03/31/22,,NS-20/M18,New Shepard System,Blue Origin,TX
+172,03/30/21,,SN11 ,Starship Prototype,Space Exploration Technologies Corporation,TX
+173,03/30/18,,Iridium-5,Falcon 9,Space Exploration Technologies Corporation,CA
+174,03/30/17,,SES-10,Falcon 9,Space Exploration Technologies Corporation,FL
+175,03/30/98,,IRIDIUM 8,Delta II,McDonnell Douglas Corporation,CA
+176,03/03/22,,Starlink Group 4-9 ,Falcon 9,Space Exploration Technologies Corporation,FL
+177,03/03/21,,SN10 Suborbital Flight ,Starship Prototype,Space Exploration Technologies Corporation,TX
+178,03/29/89,,CONSORT-1 ,Starfire,Space Services,NM
+181,03/25/93,,UHF-1 ,Atlas I,General Dynamics,FL
+182,03/24/21,,Starlink v1.0-22 ,Falcon 9,Space Exploration Technologies Corporation,FL
+184,03/22/16,,OA-6 Cygnus,Atlas V,United Launch Alliance,FL
+185,03/22/95,,INTELSAT-VII-705 ,Atlas IIAS,Martin Marrietta,FL
+186,03/02/19,,M1 ,SARGE,Exos Aerospace,NM
+187,03/19/22,,Starlink Group 4-12 ,Falcon 9,Space Exploration Technologies Corporation,FL
+189,03/18/20,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+191,03/16/17,,EchoStar-23,Falcon 9,Space Exploration Technologies Corporation,FL
+192,03/16/98,,GBS F8,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+193,03/15/22,,LV0009 ,Astra Rocket v3.3,Astra,AK
+194,03/14/21,,Starlink v1.0-21 ,Falcon 9,Space Exploration Technologies Corporation,FL
+195,03/14/92,,GALAXY 5 ,Atlas I,General Dynamics,FL
+196,03/14/90,,INTELSAT VI ,Titan,Martin Marrietta,FL
+197,03/13/04,,MBSat,Atlas IIIA,Lockheed Martin Commercial Launch Services,FL
+199,03/11/21,,Starlink v1.0-20 ,Falcon 9,Space Exploration Technologies Corporation,FL
+200,03/11/05,,INMARSAT-4F1,Atlas V-431,Lockheed Martin Commercial Launch Services,FL
+201,03/01/15,,ABS3/EUTELSAT-1,Falcon 9,Space Exploration Technologies Corporation,FL
+202,03/01/13,,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+204,06/08/22,,Nilesat-301 ,Falcon 9,Space Exploration Technologies Corporation,FL
+205,06/08/07,,COSMO-SkyMed 1,Delta II,McDonnell Douglas Corporation,CA
+207,06/07/00,,TSX-5,Pegasus XL,Orbital ATK,CA
+208,06/06/21,,SiriusXM-8 ,Falcon 9,Space Exploration Technologies Corporation,FL
+209,06/04/22,,NS-21/A1,New Shepard System,Blue Origin,TX
+210,06/04/18,,SES-12 ,Falcon 9,Space Exploration Technologies Corporation,FL
+211,06/04/10,,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+212,06/30/21,,Transporter-2 ,Falcon 9,Space Exploration Technologies Corporation,FL
+214,06/03/21,,CRS-22 ,Falcon 9,Space Exploration Technologies Corporation,FL
+215,06/03/20,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+216,06/03/17,,Dragon CRS-11,Falcon 9,Space Exploration Technologies Corporation,FL
+217,06/29/22,,SES-22 ,Falcon 9,Space Exploration Technologies Corporation,FL
+219,06/29/18,,CRS-15 ,Falcon 9,Space Exploration Technologies Corporation,FL
+222,06/28/15,,Dragon Spacecraft CRS-7,Falcon 9,Space Exploration Technologies Corporation,FL
+223,06/27/09,,GOES O,Delta IV,The Boeing Company,FL
+224,06/26/03,,Orbview 3,Pegasus XL,Orbital ATK,CA
+225,06/25/17,,Iridium-2,Falcon 9,Space Exploration Technologies Corporation,CA
+226,06/24/94,,UHF-3 ,Atlas I,Martin Marrietta,FL
+227,06/23/17,,Bulgaria SAT-1,Falcon 9,Space Exploration Technologies Corporation,FL
+229,06/23/90,,INTELSAT VI ,Titan,Martin Marrietta,FL
+230,06/21/04,,(Flight 15P),SpaceShipOne,Scaled Composites,CA
+231,06/19/22,,Globalstar-FM15 ,Falcon 9,Space Exploration Technologies Corporation,FL
+232,06/19/01,,ICO 2,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+233,06/18/22,,SARah-1 ,Falcon 9,Space Exploration Technologies Corporation,CA
+235,06/18/98,,INTELSAT 805,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+236,06/18/91,,JOUST-1 ,Prospector,Space Data,FL
+237,06/17/22,,Starlink Group 4-19 ,Falcon 9,Space Exploration Technologies Corporation,FL
+238,06/15/16,,ABS-2A/Eutelsat 117W B,Falcon 9,Space Exploration Technologies Corporation,FL
+240,06/13/21,,TacRL-2 ,Pegasus XL,"Orbital Sciences, LLC",CA
+241,06/13/20,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+243,06/12/22,,LV0010/TROPICS-1 ,Rocket 3.3,Astra,FL
+244,06/12/19,,RadarSat ,Falcon 9,Space Exploration Technologies Corporation,CA
+245,06/12/90,,INSAT-1D ,Delta 4925,McDonnell Douglas Corporation,FL
+246,06/10/99,,GLOBALSTAR 3,Delta II,McDonnell Douglas Corporation,FL
+247,06/10/98,,THOR III,Delta II,McDonnell Douglas Corporation,FL
+248,06/10/92,,INTELSAT K ,Atlas IIA,General Dynamics,FL
+250,07/09/97,,IRIDIUM 2 ,Delta II,McDonnell Douglas Corporation,CA
+251,07/07/22,,Starlink Group 4-21 ,Falcon 9,Space Exploration Technologies Corporation,FL
+252,07/05/17,,Intelsat-35,Falcon 9,Space Exploration Technologies Corporation,FL
+257,07/28/97,,SUPERBIRD-C ,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+258,07/26/18,,,SpaceShipTwo,Virgin Galactic,CA
+259,07/25/19,,CRS-18 ,Falcon 9,Space Exploration Technologies Corporation,FL
+260,07/25/18,,Iridium-6 ,Falcon 9,Space Exploration Technologies Corporation,CA
+261,07/25/99,,GLOBALSTAR 5,Delta II,McDonnell Douglas Corporation,FL
+262,07/25/96,,EHF F7 ,Atlas II,Lockheed Martin Commercial Launch Services,FL
+263,07/25/90,,CRRES ,Atlas I,General Dynamics,FL
+264,07/24/22,,Starlink Group 4-25 ,Falcon 9,Space Exploration Technologies Corporation,FL
+265,07/22/22,,Starlink Group 3-2 ,Falcon 9,Space Exploration Technologies Corporation,CA
+266,07/22/18,,Telstar 19V ,Falcon 9,Space Exploration Technologies Corporation,FL
+267,07/20/21,,NS-16/M15,New Shepard System,Blue Origin,TX
+268,07/20/20,,K-MILSAT 1 ,Falcon 9,Space Exploration Technologies Corporation,FL
+269,07/20/18,,N/A ,Astra Rocket 1,"Astra Space, Inc.",AK
+270,07/02/22,,Flight 5 ,LauncherOne (L1),"Virgin Orbit, LLC",CA
+271,07/18/18,,Multiple Payloads,PM4,Blue Origin,TX
+272,07/18/16,,CRS-9,Falcon 9,Space Exploration Technologies Corporation,FL
+273,07/17/22,,Starlink Group 4-22 ,Falcon 9,Space Exploration Technologies Corporation,FL
+274,07/17/03,,Rainbow,Atlas V,Lockheed Martin Commercial Launch Services,FL
+276,07/14/22,,CRS-25 ,Falcon 9,Space Exploration Technologies Corporation,FL
+277,07/14/14,,Orbcomm-1 Second Generation Communications Satellites (#1 through #6),Falcon 9,Space Exploration Technologies Corporation,FL
+279,07/14/00,,ECHOSTAR VI,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+281,07/13/14,,Orb-2 Cygnus ,Antares,Orbital ATK,VA
+282,07/11/21,,VH-01,SpaceShipTwo,Virgin Galactic,NM
+283,07/10/22,,Starlink Group 3-1 ,Falcon 9,Space Exploration Technologies Corporation,CA
+284,07/10/99,,GLOBALSTAR 4,Delta II,McDonnell Douglas Corporation,FL
+285,07/01/19,,M3 ,SARGE,Exos Aerospace,NM
+286,01/09/14,,Orb-1 Cygnus ,Antares,Orbital ATK,VA
+287,01/08/91,,NATO IVA ,Delta II,McDonnell Douglas Corporation,FL
+288,01/07/21,,Turksat-5A ,Falcon 9,Space Exploration Technologies Corporation,FL
+289,01/07/18,,Zuma ,Falcon 9,Space Exploration Technologies Corporation,FL
+290,01/07/98,,Lunar Prospector,Athena-2,Lockheed Martin Commercial Launch Services,FL
+291,01/06/22,,Starlink Group 4-5 ,Falcon 9,Space Exploration Technologies Corporation,FL
+292,01/06/20,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+293,01/06/14,,THAICOM 6 MISSION ,Falcon 9,Space Exploration Technologies Corporation,FL
+294,01/05/13,,Scientific ,STIG-B III,Armadillo Aerospace,NM
+295,01/31/22,,COSMO-SkyMed ,Falcon 9,Space Exploration Technologies Corporation,FL
+296,01/31/18,,GovSat-1,Falcon 9,Space Exploration Technologies Corporation,FL
+299,01/29/20,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+300,01/28/95,,EHF-F4 ,Atlas II,Martin Marrietta,FL
+301,01/27/99,,ROCSAT,Athena-11,Lockheed Martin Commercial Launch Services,FL
+302,01/24/21,,Transporter-1 ,Falcon 9,Space Exploration Technologies Corporation,FL
+303,01/23/19,,P7 ,New Shepard System,Blue Origin,TX
+304,01/20/21,,Starlink v1.0-16 ,Falcon 9,Space Exploration Technologies Corporation,FL
+307,01/19/20,,Crew Dragon/In-Flight Abort ,Falcon 9,Space Exploration Technologies Corporation,FL
+308,01/18/22,,Starlink Group 4-6 ,Falcon 9,Space Exploration Technologies Corporation,FL
+309,01/17/21,,Flight 2 ,LauncherOne (L1),"Virgin Orbit, LLC",CA
+311,01/14/21,,NS-14/M13 ,New Shepard System,Blue Origin,TX
+312,01/14/17,,Iridium-1,Falcon 9,Space Exploration Technologies Corporation,CA
+313,01/14/96,,KOREASAT-2 ,Delta II,McDonnell Douglas Corporation,FL
+314,01/13/22,,Flight 4 ,LauncherOne (L1),"Virgin Orbit, LLC",CA
+316,01/11/19,,Iridium-7 ,Falcon 9,Space Exploration Technologies Corporation,CA
+318,01/10/15,,Dragon Spacecraft CRS-5,Falcon 9,Space Exploration Technologies Corporation,FL
+319,01/10/98,,SKYNET 4D,Delta II,McDonnell Douglas Corporation,FL
+320,01/10/95,,INTELSAT-VII-704 ,Atlas IIAS,Martin Marrietta,FL
+321,01/01/90,,JCSAT/SKYNET ,Titan,Martin Marrietta,FL
+322,02/09/93,,SCD-1/OXP ,Pegasus,Orbital ATK,VA
+323,02/08/00,,GLOBALSTAR 7,Delta II,McDonnell Douglas Corporation,FL
+324,02/06/18,,Tesla Roadster,Falcon Heavy,Space Exploration Technologies Corporation,FL
+325,02/05/04,,AMC-10,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+326,02/04/21,,Starlink v1.0-18 ,Falcon 9,Space Exploration Technologies Corporation,FL
+327,02/03/22,,Starlink Group 4-7 ,Falcon 9,Space Exploration Technologies Corporation,FL
+328,02/03/00,,HISPASAT-1C,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+330,02/28/98,,INTELSAT 806,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+331,02/26/98,,SNOE,Pegasus XL,Orbital ATK,CA
+332,02/25/22,,Starlink Group 4-11 ,Falcon 9,Space Exploration Technologies Corporation,CA
+333,02/22/19,,VF-01,SpaceShipTwo,Virgin Galactic,CA
+334,02/22/18,,Paz/Demosat,Falcon 9,Space Exploration Technologies Corporation,CA
+335,02/21/22,,Starlink Group 4-8 ,Falcon 9,Space Exploration Technologies Corporation,FL
+336,02/21/19,,PSN VI ,Falcon 9,Space Exploration Technologies Corporation,FL
+337,02/21/02,,ECHOSTAR VII,Atlas IIIB,Lockheed Martin Commercial Launch Services,FL
+338,02/20/21,,NG-15 ,Antares,Orbital Sciences Corp,VA
+339,02/02/21,,SN9 Suborbital Flight ,Starship Prototype,Space Exploration Technologies Corporation,TX
+340,02/19/22,,NG-17 ,Antares,"Orbital Sciences, LLC",VA
+341,02/19/17,,Dragon CRS 10,Falcon 9,Space Exploration Technologies Corporation,FL
+342,02/19/94,,GALAXY 1R-2 ,Delta II,McDonnell Douglas Corporation,FL
+343,02/19/93,,CONSORT-6 ,Starfire 1,EER Systems Corporation,NM
+344,02/18/98,,IRIDIUM 7,Delta II,McDonnell Douglas Corporation,CA
+345,02/17/20,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+346,02/17/97,,JCSAT-4 ,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+347,02/16/21,,Starlink v1.0-19 ,Falcon 9,Space Exploration Technologies Corporation,FL
+348,02/16/99,,JCSAT-6,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+349,02/15/20,,NG-13 Cygnus ,Antares,Northrop Grumman,VA
+351,02/14/98,,GLOBALSTAR 1,Delta II,McDonnell Douglas Corporation,FL
+352,02/14/90,,LOSAT ,Delta II,McDonnell Douglas Corporation,FL
+353,02/11/02,,IRIDIUM,Delta II,McDonnell Douglas Corporation,CA
+354,02/10/22,,VCLS Demo-2 ,Rocket 3.3,"Astra Space, Inc.",FL
+355,02/10/98,,GEOSAT F/O,Taurus,Orbital ATK,CA
+357,02/01/96,,PALAPA-C1 ,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+358,12/09/20,,15km Hop ,Starship Prototype,Space Exploration Technologies Corporation,TX
+359,12/09/07,,COSMO-SkyMed-2,Delta II,Boeing Launch Services,CA
+361,12/08/10,,Dragon Reentry Capsule,Falcon 9,Space Exploration Technologies Corporation,FL
+362,12/08/97,,GALAXY 8I ,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+363,12/08/94,,CSAR II ,Black Brant,EER Systems Corporation,NM
+364,12/08/93,,NATO IVB ,Delta II,McDonnell Douglas Corporation,FL
+365,12/07/91,,EUTELSAT ,Atlas II,General Dynamics,FL
+366,12/06/20,,CRS-21 ,Falcon 9,Space Exploration Technologies Corporation,FL
+368,12/06/15,,OA-4 Cygnus,Atlas V,United Launch Alliance,FL
+369,12/05/19,,CRS-19 ,Falcon 9,Space Exploration Technologies Corporation,FL
+370,12/05/18,,CRS-16 ,Falcon 9,Space Exploration Technologies Corporation,FL
+371,12/05/14,,Orion Exploration Flight Test 1 (EFT-1) reentry vehicle,Delta IV Heavy,United Launch Alliance,FL
+372,12/04/99,,ORBCOMM IV,Pegasus XL,Orbital ATK,VA
+373,12/03/18,,SSO-A ,Falcon 9,Space Exploration Technologies Corporation,CA
+374,12/03/13,,SES-8 ,Falcon 9,Space Exploration Technologies Corporation,FL
+376,12/23/97,,ORBCOMM I,Pegasus XL,Orbital ATK,VA
+377,12/22/17,,Iridium-4,Falcon 9,Space Exploration Technologies Corporation,CA
+378,12/21/21,,CRS-24 ,Falcon 9,Space Exploration Technologies Corporation,FL
+379,12/21/15,,Orbcomm2,Falcon 9,Space Exploration Technologies Corporation,FL
+380,12/21/99,,KOMPSAT/ACRIMSAT,Taurus,Orbital ATK,CA
+381,12/20/97,,IRIDIUM 6 ,Delta II,McDonnell Douglas Corporation,CA
+382,12/02/21,,Starlink Group 4-3 ,Falcon 9,Space Exploration Technologies Corporation,FL
+383,12/19/20,,NROL-108 ,Falcon 9,Space Exploration Technologies Corporation,FL
+384,12/18/21,,Turksat-5B ,Falcon 9,Space Exploration Technologies Corporation,FL
+386,12/18/16,,EchoStar 19,Atlas V,Lockheed Martin Commercial Launch Services,FL
+387,12/18/03,,UHF-F11 17,Atlas IIIB,Lockheed Martin Commercial Launch Services,FL
+388,12/18/96,,INMARSAT III F3 ,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+389,12/17/04,,AMC-16,Atlas V-521,Lockheed Martin Commercial Launch Services,FL
+390,12/16/19,,JCSAT-18 ,Falcon 9,Space Exploration Technologies Corporation,FL
+392,12/16/93,,TELSTAR 401 ,Atlas IIAS,General Dynamics,FL
+393,12/15/20,,Test Launch ,Rocket 3.2,Astra,AK
+395,12/15/17,,Dragon,Falcon 9,Space Exploration Technologies Corporation,FL
+396,12/15/95,,Galaxy 3R ,Atlas IIA,Lockheed Martin Commercial Launch Services,FL
+397,12/13/20,,SiriusXM-7 ,Falcon 9,Space Exploration Technologies Corporation,FL
+398,12/13/18,,VP-03,SpaceShipTwo,Virgin Galactic,CA
+399,12/12/20,,VF02,SpaceShipTwo,Virgin Galactic,NM
+400,12/12/17,,Blue Origin Crew Capsule,New Shepard System,Blue Origin,TX
+401,12/11/21,,NS-19/M17,New Shepard System,Blue Origin,TX
+402,12/11/19,,NS4 P9 ,New Shepard System,Blue Origin,TX
+403,08/09/22,,Starlink Group 4-26 ,Falcon 9,Space Exploration Technologies Corporation,FL
+405,08/07/20,,Starlink v1.0-9 ,Falcon 9,Space Exploration Technologies Corporation,FL
+406,08/07/18,,Telkom-4 ,Falcon 9,Space Exploration Technologies Corporation,FL
+407,08/06/19,,Amos-17 ,Falcon 9,Space Exploration Technologies Corporation,FL
+408,08/05/14,,AsiaSat-8,Falcon 9,Space Exploration Technologies Corporation,FL
+409,08/05/95,,KOREASAT-1 ,Delta II,McDonnell Douglas Corporation,FL
+410,08/04/22,,KPLO ,Falcon 9,Space Exploration Technologies Corporation,FL
+413,08/04/20,,150M Hop ,Starship Prototype,Space Exploration Technologies Corporation,TX
+414,08/31/22,,Starlink Group 3-4 ,Falcon 9,Space Exploration Technologies Corporation,CA
+415,08/31/92,,SATCOM C4 ,Delta II,McDonnell Douglas Corporation,FL
+418,08/03/94,,HUGHES DIRECT TV ,Atlas IIA,Martin Marrietta,FL
+419,08/29/21,,CRS-23 ,Falcon 9,Space Exploration Technologies Corporation,FL
+420,08/29/95,,JCSAT-3 ,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+421,08/28/21,,Mass Simulator ,Rocket 3.3LV0006,Astra,AK
+422,08/27/22,,Starlink Group 4-23 ,Falcon 9,Space Exploration Technologies Corporation,FL
+423,08/27/98,,GALAXY 10,Delta III,McDonnell Douglas Corporation,FL
+424,08/27/89,,BSB-R1 ,Delta II,McDonnell Douglas Corporation,FL
+425,08/26/21,,NS-17/P11 ,New Shepard System,Blue Origin,TX
+426,08/26/17,,ORS-5,Minotaur IV,Orbital ATK,FL
+427,08/25/18,,Pathfinder 1 ,SARGE,Exos Aerospace,NM
+428,08/24/17,,Formosat-5,Falcon 9,Space Exploration Technologies Corporation,CA
+429,08/23/00,,DM-F3 (DEMOSAT),Delta III,TBC,FL
+431,08/22/97,,LEWIS ,LMLV-1,Lockheed Martin Commercial Launch Services,CA
+432,08/22/92,,GALAXY 1R ,Atlas I,General Dynamics,FL
+433,08/21/02,,HOTBIRD 6,Atlas V,Lockheed Martin Commercial Launch Services,FL
+434,08/21/97,,IRIDIUM 3 ,Delta II,McDonnell Douglas Corporation,CA
+436,08/02/98,,ORBCOMM II,Pegasus XL,Orbital ATK,VA
+437,08/19/22,,Starlink Group 4-27 ,Falcon 9,Space Exploration Technologies Corporation,FL
+439,08/18/20,,Starlink v1.0-10 ,Falcon 9,Space Exploration Technologies Corporation,FL
+441,08/17/99,,GLOBALSTAR 6,Delta II,McDonnell Douglas Corporation,FL
+442,08/17/90,,BSB-R2 ,Delta II,McDonnell Douglas Corporation,FL
+443,08/15/95,,GEMSTAR ,LLV-1,Lockheed Martin Commercial Launch Services,CA
+444,08/14/17,,CRS-12,Falcon 9,Space Exploration Technologies Corporation,FL
+445,08/14/16,,JCSat-16,Falcon 9,Space Exploration Technologies Corporation,FL
+446,08/13/14,,WorldView-3 Satellite,Atlas V-401,Lockheed Martin Commercial Launch Services,CA
+447,08/12/22,,Starlink 3-3 ,Falcon 9,Space Exploration Technologies Corporation,CA
+448,08/10/21,,NG-16 ,Antares,Orbital Sciences Corp,VA
+449,08/01/97,,SEASTAR ,Pegasus XL,Orbital ATK,CA
+450,04/08/22,,Axiom-1,Falcon 9,Space Exploration Technologies Corporation,FL
+451,04/08/16,,Dragon Spacecraft CRS-8,Falcon 9,Space Exploration Technologies Corporation,FL
+452,04/08/04,,(Flight 13P),SpaceShipOne,Scaled Composites,CA
+453,04/07/21,,Starlink v1.0-23 ,Falcon 9,Space Exploration Technologies Corporation,FL
+454,04/07/95,,MSAT ,Atlas IIA,Martin Marrietta,FL
+455,04/05/18,,,SpaceShipTwo,Virgin Galactic,CA
+456,04/30/96,,SAX ,Atlas I,Lockheed Martin Commercial Launch Services,FL
+457,04/03/96,,CONQUEST ,Starfire 1,EER Systems Corporation,NM
+459,04/03/95,,ORBCOMM FM1 & 2 ,Std Pegasus,Orbital ATK,CA
+460,04/29/22,,Starlink Group 4-16 ,Falcon 9,Space Exploration Technologies Corporation,FL
+461,04/29/21,,Starlink v1.0-24 ,Falcon 9,Space Exploration Technologies Corporation,FL
+462,04/29/18,,M8 ,New Shepard System,Blue Origin,TX
+463,04/27/22,,Crew-4,Falcon 9,Space Exploration Technologies Corporation,FL
+464,04/27/15,,TurkmenAlem52E/MonacoSat Communication Satellite,Falcon 9,Space Exploration Technologies Corporation,FL
+465,04/27/99,,IKONOS 1,Athena-2,Lockheed Martin Commercial Launch Services,CA
+467,04/24/98,,GLOBALSTAR 2,Delta II,McDonnell Douglas Corporation,FL
+468,04/24/96,,MSX ,Delta II,McDonnell Douglas Corporation,CA
+469,04/23/21,,Crew-2,Falcon 9,Space Exploration Technologies Corporation,FL
+470,04/22/20,,Starlink ,Falcon 9,Space Exploration Technologies Corporation,FL
+471,04/21/22,,Starlink Group 4-14 ,Falcon 9,Space Exploration Technologies Corporation,FL
+472,04/21/13,,Mass Simulator,Antares,Orbital ATK,VA
+475,04/20/06,,Astra 1KR,Atlas V,Lockheed Martin Commercial Launch Services,FL
+477,04/02/18,,CRS-14 ,Falcon 9,Space Exploration Technologies Corporation,FL
+478,04/18/17,,OA-7 Cygnus,Atlas V,United Launch Alliance,FL
+479,04/18/14,,Dragon,Falcon 9,Space Exploration Technologies Corporation,FL
+480,04/18/91,,BS-3H ,Atlas I,General Dynamics,FL
+481,04/17/19,,NG-11 Cygnus ,Antares,Orbital Sciences Corp.,VA
+483,04/16/04,,Superbird-6,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+484,04/14/21,,NS-15/M14 ,New Shepard System,Blue Origin,TX
+485,04/14/15,,Dragon Spacecraft CRS-6,Falcon 9,Space Exploration Technologies Corporation,FL
+486,04/14/08,,ICO-G1,Atlas V-421,Lockheed Martin Commercial Launch Services,FL
+487,04/13/91,,ASC-2 ,Delta II,McDonnell Douglas Corporation,FL
+488,04/13/90,,PALAPA B2-R ,Delta II,McDonnell Douglas Corporation,FL
+489,04/12/03,,ASIASAT 4,Atlas IIIB,Lockheed Martin Commercial Launch Services,FL
+490,04/12/99,,EUTELSAT W3,Atlas IIAS,Lockheed Martin Commercial Launch Services,FL
+491,04/11/19,,Arabsat 6A ,Falcon Heavy,Space Exploration Technologies Corporation,FL
+493,04/01/22,,Transporter-4 ,Falcon 9,Space Exploration Technologies Corporation,FL
