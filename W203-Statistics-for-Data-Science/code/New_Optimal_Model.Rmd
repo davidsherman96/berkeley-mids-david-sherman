@@ -1,0 +1,198 @@
+---
+title: "Lab 2 Code"
+author: "Ashrita Brahmaroutu, Daniel Myers, David Sherman, Rafael Arbex-Murut"
+subtitle: Optimal Model
+output:
+  pdf_document:
+    toc: no
+    number_sections: yes
+  html_document:
+    toc: no
+    df_print: paged
+  word_document:
+    toc: no
+---
+
+\newpage
+\setcounter{page}{1}
+
+```{r load packages and set options, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(ggplot2)
+library(GGally)
+library(sandwich)
+library(stargazer)
+library(janitor)
+library(dplyr)
+library(car)
+library(gridExtra)
+library(lmtest)
+library(moments)
+library(lattice)
+
+#library(hardhat)
+#install.packages("https://cran.r-project.org/src/contrib/Archive/rlang/rlang_1.1.0.tar.gz", repos = NULL, type="source")
+#install.packages("rlang")
+#library(caret)
+#theme_set(theme_bw())
+#options(tinytex.verbose = TRUE)
+#knitr::opts_chunk$set(echo=FALSE, message=FALSE)
+```
+
+```{r, echo=FALSE}
+# Reload the data file
+df <- read.csv('../cubic_zirconia.csv')
+```
+
+```{r, echo=FALSE}
+# Drop rows with missing values in the "depth" column
+df <- df[!is.na(df$depth), ]
+
+# Basic statistics
+basic_stats <- summary(df)
+
+# Missing values (after dropping rows with missing depth values)
+missing_values <- colSums(is.na(df))
+```
+
+```{r, echo=FALSE}
+# Define numerical columns to handle outliers
+numerical_cols <- c('carat', 'depth', 'table', 'x', 'y', 'z', 'price')
+
+# Define ordinal mappings for "color" and "clarity"
+color_mapping <- c('J' = 1, 'I' = 2, 'H' = 3, 'G' = 4, 'F' = 5, 'E' = 6, 'D' = 7)
+clarity_mapping <- c('I1' = 1, 'SI2' = 2, 'SI1' = 3, 'VS2' = 4, 'VS1' = 5, 'VVS2' = 6, 'VVS1' = 7, 'IF' = 8)
+
+# Convert "color" and "clarity" to ordinal variables based on their mappings
+df$color_ordinal <- color_mapping[df$color]
+df$clarity_ordinal <- clarity_mapping[df$clarity]
+```
+
+```{r, echo=FALSE}
+# Create binary (dummy) variables for each category in the "cut" column using one-hot encoding
+# Exclude the dummy variable "cutIdeal" as the reference category
+cut_dummies <- model.matrix(~cut - 1, data = df) %>% as.data.frame()
+cut_dummies <- cut_dummies[, !colnames(cut_dummies) %in% "cutIdeal"]
+
+# Drop the original "cut" column from the DataFrame
+df$cut <- NULL
+
+# Bind the original DataFrame with the newly created dummy variables
+df <- cbind(df, cut_dummies)
+df$volume <- with(df, x *y * z)
+```
+
+```{r, echo=FALSE}
+# Select relevant columns for linear regression analysis (excluding "carat_squared")
+X <- df[, c('carat', 'color_ordinal', 'clarity_ordinal', 'depth', 'z', grep('cut', colnames(df), value = TRUE), 'volume')]
+y <- df$price
+
+# Set the seed for reproducibility
+#set.seed(42)
+
+# Calculate the number of samples in the training dataset (70% of the total data)
+n_train <- floor(0.7 * nrow(df))
+
+# Generate indices for the training dataset using the sample function
+train_indices <- sample(seq_len(nrow(df)), size = n_train)
+
+# Use the generated indices to create the training datasets
+X_train <- X[train_indices, ]
+y_train <- y[train_indices]
+
+# Use the remaining indices to create the testing datasets
+X_test <- X[-train_indices, ]
+y_test <- y[-train_indices]
+
+colnames(X_train)[9] ="cutVeryGood"
+colnames(X_test)[9] ="cutVeryGood"
+```
+
+```{r, echo=FALSE}
+#This is the optimal model
+
+# Train the simple linear regression model with the original set of predictor variables
+lr_model_original <- lm(y_test ~ carat + cutFair + cutGood + cutPremium + cutVeryGood, data = X_test)
+
+# Predict on the testing data
+y_pred_original <- predict(lr_model_original, X_test)
+
+# Evaluate the model performance
+rmse_original <- sqrt(mean((y_test - y_pred_original)^2))
+r2_original <- summary(lr_model_original)$r.squared
+
+# Display the coefficients of the model
+coefficients_original <- coef(lr_model_original)
+intercept_original <- coef(lr_model_original)[1]
+
+# Perform f-test on the model
+f_test_result <- anova(lr_model_original)
+
+summary(lr_model_original)
+f_test_result
+```
+
+```{r, echo=FALSE}
+#This is the simple model
+
+# Train the simple linear regression model with the original set of predictor variables
+lr_model_simple <- lm(y_test ~ cutFair + cutGood + cutPremium + cutVeryGood, data = X_test)
+
+# Predict on the testing data
+y_pred_simple <- predict(lr_model_simple, X_test)
+
+# Evaluate the model performance
+rmse_simple <- sqrt(mean((y_test - y_pred_simple)^2))
+r2_simple <- summary(lr_model_simple)$r.squared
+
+# Display the coefficients of the model
+coefficients_simple <- coef(lr_model_simple)
+intercept_simple <- coef(lr_model_simple)[1]
+
+# Perform f-test on the model
+f_test_result_simple <- anova(lr_model_simple)
+
+summary(lr_model_simple)
+```
+```{r, echo=FALSE}
+#This is the kitchensink model
+
+# Train the simple linear regression model with the original set of predictor variables
+lr_model_ks <- lm(y_test ~ color_ordinal + clarity_ordinal + depth + carat + cutFair + cutGood + cutPremium + cutVeryGood, data = X_test)
+
+# Predict on the testing data
+y_pred_ks <- predict(lr_model_ks, X_test)
+
+# Evaluate the model performance
+rmse_ks <- sqrt(mean((y_test - y_pred_ks)^2))
+r2_ks <- summary(lr_model_ks)$r.squared
+
+# Display the coefficients of the model 
+coefficients_ks <- coef(lr_model_ks)
+intercept_ks <- coef(lr_model_ks)[1]
+
+# Perform f-test on the model
+f_test_result_ks <- anova(lr_model_ks)
+
+summary(lr_model_ks)
+```
+```{r, echo=FALSE}
+vif(lr_model_simple)
+vif(lr_model_original)
+vif(lr_model_ks)
+```
+
+```{r, results="asis"}
+stargazer(lr_model_simple, lr_model_original, lr_model_ks,
+          type='latex', 
+          dep.var.labels=c('Test Results of Coefficients - Linear Regression'),
+          covariate.labels = c("Color", "Clarity", "Depth", "Carat",
+                               "Cut = Fair", "Cut = Good", "Cut = Premium",
+                               "Cut = Very Good", "Constant"))
+```
+
+```{r, echo=FALSE}
+anova(lr_model_simple, lr_model_original)
+anova(lr_model_original, lr_model_ks)
+```
