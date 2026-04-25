@@ -13,7 +13,7 @@ Final Paper (arXiv): https://arxiv.org/abs/2502.08622
 
 ```
 W210-Capstone/
-├  code/    	   # Code notebooks
-├── dat   	   # Dataset source
-└  presentation/  # Final presentation
-```	
+-code/         # Code notebooks
+-data/         # Dataset source
+-presentation/ # Final presentation
+```
