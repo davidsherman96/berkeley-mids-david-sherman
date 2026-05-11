@@ -11,12 +11,10 @@ The [Berkeley MIDS](https://ischoolonline.berkeley.edu/data-science/) program is
 ```
 berkeley-mids/
 ├── W200-Intro-to-Data-Science/
-├── W201-Research-Design-and-Applications/
 ├── W203-Statistics-for-Data-Science/
 ├── W205-Data-Engineering/
 ├── W207-Intro-to-Machine-Learning/
 ├── W209-Data-Visualization/
-├── W231-Behind-the-Data/
 ├── W266-Natural-Language-Processing/
 └── W210-Capstone/
 ```
@@ -34,14 +32,13 @@ Each course folder contains:
 | Course | Title |
 |--------|-------|
 | W200 | Introduction to Data Science |
-| W201 | Research Design & Applications |
 | W203 | Statistics for Data Science |
 | W205 | Data Engineering |
 | W207 | Introduction to Machine Learning |
 | W209 | Data Visualization |
-| W231 | Behind the Data |
 | W266 | Natural Language Processing |
 | W210 | Capstone |
 
 ---
 *UC Berkeley School of Information*
+
