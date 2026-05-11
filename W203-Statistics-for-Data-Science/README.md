@@ -1,12 +1,13 @@
 # W203: Statistics for Data Science
 
 ## Course Overview
-> _Add a brief description of the course here._
+Introduces students to classical statistical thinking and quantitative research methods within a modern data science context. Students learn how to formulate research questions, analyze uncertainty, draw valid references from data, and communicate statistical findings using the R programming language.
 
 ## Learning Objectives
-- 
-- 
-- 
+- Apply foundational statistical concepts (descriptive/inferential stats, probability theory, confidence intervals, statistical significance)
+- Conduct hypothesis testing: formulate null and alternate hypotheses, select appropriate stat tests, interpret p-values, evaluate Type I and Type II errors
+- Build and interpret regression models
+- Perform statistical analysis in R and communicate findings
 
 ## Folder Structure
 
@@ -17,11 +18,19 @@ W203-Statistics-for-Data-Science/
 └── reports/    # Written reports, papers, and deliverables
 ```
 
-## Projects & Assignments
+## Final Project
+A team-based applied statistical analysis project in which students investigate a real-world question using the statistical methods taught throughout the course.
 
-| Title | Description | Folder |
-|-------|-------------|--------|
-| _Project 1_ | _Description_ | `code/` |
+For our project, we investigated the impact of a diamond's cut quality on its price. We aimed to identify which cuts maximize profitability - specifically, whether lower-tier cuts (like "Very Good") could be sold at similar prices to premium cuts, reducing costs while maintaining profit margins. Our methodology included:
+- Dataset: ~27K diamonds from Kaggle's "Gemstone Price Prediction" (2015, USD)
+- Data Split: 70% training, 30% test
+- Approach: Three progressive linear regression models:
+	- Cut only
+	- Cut + carat
+	- Cut + carat + color + clarity (primary model)
+- Operationalization: cut quality (5 categories: Fair, Good, Very Good, Premium, Ideal) encoded as dummy variables with "Ideal" as the reference category
+
+You can read more about our results and findings in our final report within the reports/ subfolder.
 
 ## Notes
-> _Any additional notes, resources, or references for this course._
+Key R libraries used: tidyverse, ggplot2, GGally, sandwich, stargazer, rlang
