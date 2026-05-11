@@ -17,7 +17,7 @@ W200-Intro-to-Data-Science/
 └── reports/    # Written reports, papers, and deliverables
 ```
 
-## Projects & Assignments
+## Final Project
 The final project required students to craft an exploratory data analysis (EDA) focused around a research question. Our group investigates UFO sightings data from the National UFO Reporting Center (NUFORC) to determine if UFO phenomena can be explained by proximity to identifiable sources such as:
 - Airports (civilian air traffic)
 - Military bases (military aircraft/operations)
