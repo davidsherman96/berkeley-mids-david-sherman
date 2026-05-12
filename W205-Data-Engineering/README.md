@@ -12,9 +12,7 @@ Teaches students the principles, architectures, and tools used to build scalable
 
 ```
 W205-Data-Engineering/
-├── code/       # Scripts, notebooks, and source code
-├── data/       # Raw and processed datasets
-└── reports/    # Written reports, papers, and deliverables
+├── code/       # Scrip final project s, notebooks, and source c
 ```
 
 ## Final Project
