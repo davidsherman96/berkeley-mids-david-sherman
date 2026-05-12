@@ -13,7 +13,7 @@ Focuses on the principles, techniques, and tools used to communicate data effect
 W209-Data-Visualization/
 ├── code/                   # Scripts, notebooks, and source code
 ├── final_presentation/     # Final presentation
-└── final_tableau/          # Final Tableau fi
+└── final_tableau/          # Final Tabl
 ```
 
 ## Final Project
